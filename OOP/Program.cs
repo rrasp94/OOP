@@ -20,5 +20,8 @@ using OOP.Inheritance.GoodExample;
 //OOP.Coupling.BadExample.BadProgram.Main();
 //OOP.Coupling.GoodExample.GoodProgram.Main();
 
+OOP.Polymorphism.MethodOverloading.Main();
+OOP.Polymorphism.OperatorOverloading.Main();
+
 // Composition
 CarExample.Main();
